@@ -1,4 +1,4 @@
-# EQmentum: AI-Driven Emotional Support for Mental Health:
+# EmotionAI: AI-Driven Emotional Support for Mental Health:
 Hook:
 Imagine a world where the rising tide of mental health challenges in the USA no longer overwhelms our society. Where the silent cries for help don't go unanswered, and where technology steps in not just as a tool, but as a lifeline.
 
