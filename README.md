@@ -1,7 +1,7 @@
 # EmpathAI: AI-Driven Emotional Support for Mental Health
 
 Hook:
-Imagine a world with children and adults with mental health crisis could receive personalized treatment and support based on their unique brain activity, auditory hallucination and lifestyle. Where the silent cries for help don't go unanswered, and where AI powered neurofeedback systems that can analyze brainwave patterns in real-time and provide feedback to help individuals learn to regulate their own brain activity. This technology steps in not just as a tool, but as a lifeline.
+Imagine a world with children and adults with mental health crisis could receive personalized treatment and support based on their unique brain activity, auditory hallucination and lifestyle. Where the silent cries for help don't go unanswered, and AI powered neurofeedback systems that can analyze brainwave patterns in real-time and provide feedback to help individuals learn to regulate their own brain activity. This technology steps in not just as a tool, but as a lifeline.
 
 Problem:
 Mental health issues, particularly ADHD, bipolar disorder, schizophrenia, depression, are escalating at an alarming rate all over the world due to loneliness. Traditional methods of treatment often fall short in providing the emotional support these patients desperately need. The human touch—emotional intelligence (EQ)—is critical but often lacking in the standard care provided today.
