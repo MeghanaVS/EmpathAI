@@ -4,7 +4,7 @@ Hook:
 Imagine a world where the rising tide of mental health challenges in the USA no longer overwhelms our society. Where the silent cries for help don't go unanswered, and where technology steps in not just as a tool, but as a lifeline.
 
 Problem:
-Mental health issues, particularly bipolar disorder, schizophrenia, depression, are escalating at an alarming rate all over the world due to loneliness. Traditional methods of treatment often fall short in providing the emotional support these patients desperately need. The human touch—emotional intelligence (EQ)—is critical but often lacking in the standard care provided today.
+Mental health issues, particularly ADHD, bipolar disorder, schizophrenia, depression, are escalating at an alarming rate all over the world due to loneliness. Traditional methods of treatment often fall short in providing the emotional support these patients desperately need. The human touch—emotional intelligence (EQ)—is critical but often lacking in the standard care provided today.
 
 Solution:
 Introducing AI-powered emotional support, a revolutionary approach that leverages the power of artificial intelligence to provide personalized, data-driven emotional guidance. By analyzing speech data generated (using data by GPT) and AI models correlation on other software application interactions user uses such as reels, music, playlist etc. We can understand the nuances of a patient's mental state and respond with tailored emotional support that goes beyond the capabilities of traditional methods.
